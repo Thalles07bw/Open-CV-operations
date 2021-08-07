@@ -1,0 +1,7 @@
+Caso necessário para executar o código python nas mesma condições feitas na minha máquina:
+
+Site para baixar a IDE Thonny: https://thonny.org
+
+Para instalar os pacotes do OpenCV no Windows acessar: Ferramentas > Gerir pacotes
+
+Pesquisar por: opencv-python, instalado na versão 4.5.1.48 e opencv-contrib-python, instalado na versão 4.5.1.48
